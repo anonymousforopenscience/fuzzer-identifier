@@ -1,7 +1,7 @@
 
-#AISec 2026 Submission #XXX - Reproducibility Materials
+# AISec 2026 Submission #116 - Reproducibility Materials
 
-This repository accompanies our paper submitted to AISec 2026 (submission #XXX). We provide these materials to enable reviewers to verify our results and reproduce our analyses.
+This repository accompanies our paper submitted to AISec 2026 (submission #116). We provide these materials to enable reviewers to verify our results and reproduce our analyses.
 
 ---
 
